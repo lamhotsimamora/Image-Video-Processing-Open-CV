@@ -1,12 +1,12 @@
 # Image-Video-Processing-Open-CV
 
 
-1. Tresholding
-2. Gradient
-3. Blur / Smoothing
-4. Histogram 2D
-5. Dense Optical Flow
-6. Canny Edge
+1. Tresholding (Image)
+2. Gradient (Image)
+3. Blur / Smoothing (Image)
+4. Histogram 2D (Image)
+5. Dense Optical Flow (Video)
+6. Canny Edge (Image)
 
 # Source
 src/app.py
