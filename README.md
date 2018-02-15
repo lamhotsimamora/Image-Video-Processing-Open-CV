@@ -1,5 +1,6 @@
 # Image-Video-Processing-Open-CV
 
+v.3.6.2 Python
 
 1. Tresholding (Image)
 2. Gradient (Image)
